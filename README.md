@@ -11,4 +11,4 @@ Material de apoio da disciplina de Banco de Dados I
 - <a href="aulas/03%20-%20Modelo%20Lógico/03%20-%20Modelo%20Lógico.pdf"> 03 - Modelo Lógico </a>
 
 ## Listas de Exercícios
-- <a href="atividades/lista01/lista01.pdf"> Lista 01 - Introdução </a>
+- <a href="atividades/lista01/lista01.pdf"> Lista 01 - Introdução </a> | Entrega: 04/03/2020
