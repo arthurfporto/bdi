@@ -2,7 +2,7 @@
 Material de apoio da disciplina de Banco de Dados I
 
 ## Datas Importantes
-- <strike>06/03/2020</strike> 12/03/2020: Primeira Prova
+- Primeira Prova: <strike>06/03/2020</strike> 12/03/2020
 
 ## Aulas
 - <a href="aulas/00%20-%20Inaugural/00%20-%20Inaugural.pdf"> 00 - Aula Inaugural </a>
