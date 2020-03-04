@@ -2,7 +2,7 @@
 Material de apoio da disciplina de Banco de Dados I
 
 ## Datas Importantes
-- <strike style="color: red">06/03/2020</strike> 12/03/2020: Primeira Prova
+- <strike>06/03/2020</strike> 12/03/2020: Primeira Prova
 
 ## Aulas
 - <a href="aulas/00%20-%20Inaugural/00%20-%20Inaugural.pdf"> 00 - Aula Inaugural </a>
@@ -11,4 +11,4 @@ Material de apoio da disciplina de Banco de Dados I
 - <a href="aulas/03%20-%20Modelo%20Lógico/03%20-%20Modelo%20Lógico.pdf"> 03 - Modelo Lógico </a>
 
 ## Listas de Exercícios
-- <a href="atividades/lista01/lista01.pdf"> Lista 01 - Introdução </a> | Entrega: 09/03/2020
+- <a href="atividades/lista01/lista01.pdf"> Lista 01 - Introdução </a> | Entrega: <strike>04/02/2020</strike> 09/03/2020
